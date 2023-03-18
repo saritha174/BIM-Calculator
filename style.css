@@ -1,0 +1,52 @@
+body{
+    background-color: aqua;
+    margin: 0px;
+    padding: 0px;
+   
+    text-align: center;
+}
+h1{
+    font-family: sans-serif;
+    font-weight: 100;
+    padding-top: 20px;
+}
+
+form{
+    height: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 60%;
+    background-color: brown;
+    border-radius: 15px;
+    margin: auto;
+}
+#height{
+    width: 50%;
+    height: 20px;
+}
+#weight{
+    width: 50%;
+    height: 20px;
+}
+label{
+    color: white;
+    font-size: 20px
+}
+#btn{
+    height: 30px;
+    width: 20%;
+    font-size: 18px;
+    background-color: rgb(66, 96, 219);
+    color: white;
+    border: none;
+}
+
+.bmi{
+    font-size: 40px;
+    color: black;
+}
+
+#result{
+    font-size: 50px;
+    color: red;
+}
